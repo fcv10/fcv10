@@ -26,12 +26,12 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning SQL, R and Python.
 - 👯 I’m looking to collaborate on anything related to environment.
 - 🤔 I’m looking for help with business tools for analytics.
-- 💬 Ask me about sustainability and economics.
+- 💬 Ask me about sustainability and economics. Photoshop & InDesign.
 - 📫 How to reach me: ask!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Rutgers alumna, dog mom, cat mom, eldest daughter.
 
-## GitHub
+## GitHub Goals
 - Want to populate with little projects.
 - Want to look at data regarding plant based cereals and metal content (cadmium, lead, and arsenic).
 - Want to look at data regarding profitability and ESG.
