@@ -16,7 +16,7 @@
 | 3 | **Azure SQL** | Live cloud table: `ESG_Companies` |
 | 4 | **Google Sheets** | 3 interactive charts |
 
-📊 **[Live Dashboard (Google Sheets)](https://docs.google.com/spreadsheets/d/1m0Ai4B9m8w63nnKwpx0BvkLZaLE6tTfy896qZpiZzpg/edit?usp=sharing)**  
+📊 ****[Live Dashboard → Google Sheets](https://docs.google.com/spreadsheets/d/1m0Ai4B9m8w63nnKwpx0BvkLZaLE6tTfy896qZpiZzpg/edit?usp=sharing)****  
 ☁️ **Server**: `econ-sql-server-fcv.database.windows.net`  
 📈 **Key Insight**: High ESG ≠ High Profit (for random sample)
 
