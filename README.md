@@ -32,13 +32,12 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: Rutgers alumna, dog mom, cat mom, eldest daughter.
 
 ## GitHub Goals
-- Want to populate with little projects.
-- Want to look at data regarding plant based cereals and metal content (cadmium, lead, and arsenic).
-- Want to look at data regarding profitability and ESG.
+- Analyze data regarding plant based cereals and metal content (cadmium, lead, and arsenic).
+- Analyze data regarding profitability and ESG.
 ### Tools: SQL, R and Python
 - Note: I will be using AI LLM to assist me with syntax.
 
-# My First Mini Project Update!
+# Project Update!
 ## Carbon & Cash: ESG vs Profit
 
 > Utilized **Real Kaggle Data → R → Azure SQL → Google Sheets**
@@ -49,15 +48,13 @@ Here are some ideas to get you started: -->
 3. **Azure SQL** → live table (`ESG_Companies`)  
 4. **Google Sheets** → connected data + 3 charts  
 
-**Live Sheet**: [Google Sheets Link](pending)  
-**Tech**: Azure SQL + Google Sheets (free BI)  
+**Live Sheet**: [Google Sheets Link](https://docs.google.com/spreadsheets/d/1m0Ai4B9m8w63nnKwpx0BvkLZaLE6tTfy896qZpiZzpg/edit?usp=sharing)  
+**Tech**: Azure SQL + Google Sheets  
 
-<!--![Revenue by Industry](dashboard/google-esg-revenue.png)
-![ESG vs Profit](dashboard/google-esg-scatter.png)-->
-Will post once its completed. Open to feedback.
+- Open to feedback.
 
 
-**Why Sheets?** Free, no CC #, Mac compatible.
+### **Why Sheets?** Its free, no CC #, Mac compatible.
 ---
 > "I have no special talents. I am only passionately curious."
 > - A. Einstein
