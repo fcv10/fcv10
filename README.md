@@ -1,61 +1,49 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.sciencemusings.com/wp-content/uploads/2019/11/paige-weber-KRNk8oosHTg-unsplash.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://www.sciencemusings.com/wp-content/uploads/2019/11/paige-weber-KRNk8oosHTg-unsplash.jpg">
- <img alt="Starry Sky Image" src="https://www.sciencemusings.com/wp-content/uploads/2019/11/paige-weber-KRNk8oosHTg-unsplash.jpg">
-</picture>
+# Hi, I'm Faith 👋  
+**Rutgers Alumna | Sustainability + Economics | Data Analyst**
 
-# About Me
+> *“I have no special talents. I am only passionately curious.”* – A. Einstein
 
-<details>
-  <summary> Click here to see my TOP 3 hobbies, ranked. </summary>
-
-| Rank | Hobbies |
-|-----:|---------------|
-|     1|    Video Games           |
-|     2|     Painting          |
-|     3|      Reading         |
-</details>
-
-
-<!--**fcv10/fcv10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-
-- 🔭 I’m currently working on a Github profile!
-- 🌱 I’m currently learning SQL, R and Python.
-- 👯 I’m looking to collaborate on anything related to environment.
-- 🤔 I’m looking for help with business tools for analytics.
-- 💬 Ask me about sustainability and economics. Photoshop & InDesign.
-- 📫 How to reach me: ask!
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Rutgers alumna, dog mom, cat mom, eldest daughter.
-
-## GitHub Goals
-- Analyze data regarding plant based cereals and metal content (cadmium, lead, and arsenic).
-- Analyze data regarding profitability and ESG.
-### Tools: SQL, R and Python
-- Note: I will be using AI LLM to assist me with syntax.
-
-# Project Update!
-## Carbon & Cash: ESG vs Profit
-
-> Utilized **Real Kaggle Data → R → Azure SQL → Google Sheets**
-
-### Pipeline
-1. **R** → cleaned 1,000 → 36 rows  
-2. **R script** → generated `INSERT` SQL  
-3. **Azure SQL** → live table (`ESG_Companies`)  
-4. **Google Sheets** → connected data + 3 charts  
-
-**Live Sheet**: [Google Sheets Link](https://docs.google.com/spreadsheets/d/1m0Ai4B9m8w63nnKwpx0BvkLZaLE6tTfy896qZpiZzpg/edit?usp=sharing)  
-**Tech**: Azure SQL + Google Sheets  
-
-- Open to feedback.
-
-
-### **Why Sheets?** Its free, no CC #, Mac compatible.
 ---
-> "I have no special talents. I am only passionately curious."
-> - A. Einstein
-<!--This is HTML syntax that keeps lines hidden -->
+
+### 🔭 **Current Project: Carbon & Cash**  
+**Do green companies profit more?**  
+→ **Kaggle → R → Azure SQL → Google Sheets**
+
+| Step | Tool | Outcome |
+|------|------|--------|
+| 1 | **R** | Cleaned 1,000 → **36 high-revenue firms** |
+| 2 | **R Script** | Generated `CREATE + INSERT` SQL |
+| 3 | **Azure SQL** | Live cloud table: `ESG_Companies` |
+| 4 | **Google Sheets** | 3 interactive charts |
+
+📊 **[Live Dashboard (Google Sheets)](https://docs.google.com/spreadsheets/d/1m0Ai4B9m8w63nnKwpx0BvkLZaLE6tTfy896qZpiZzpg/edit?usp=sharing)**  
+☁️ **Server**: `econ-sql-server-fcv.database.windows.net`  
+📈 **Key Insight**: High ESG ≠ High Profit (for random sample)
+
+> **Why Google Sheets?** Free, Mac-native, no CC required.
+
+---
+
+### 🌱 **Skills**
+- **Data**: R, SQL, Excel, Google Sheets  
+- **Cloud**: Azure SQL  
+- **Design**: Photoshop, InDesign  
+- **Passion**: Sustainability, ESG, Economics
+
+
+---
+
+### 📫 **Let’s Connect**
+- 💬 Ask me about **ESG investing**, **plant-based foods**, or **data for good**  
+- 🐶 Dog mom | 🐱 Cat mom | 👩‍🎓 Eldest daughter 
+
+---
+
+### 🚀 **GitHub Goals**
+- Analyze **metal content in plant-based cereals** (cadmium, lead, arsenic) - later 
+- Build **ESG profitability models**  
+- Open to **collabs on environmental data**
+
+---
+
+*Note: AI is great tool to learn syntax*
